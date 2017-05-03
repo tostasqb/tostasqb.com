@@ -1,0 +1,29 @@
+{
+  "name": "tostasqb.com",
+  "version": "1.0.0",
+  "description": "my presentation website",
+  "main": "js/index.js",
+  "dependencies": {
+    "bulma": "^0.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tostasqb/tostasqb.com.git"
+  },
+  "keywords": [
+    "website",
+    "js",
+    "html",
+    "bulma"
+  ],
+  "author": "Hugo Bento",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tostasqb/tostasqb.com/issues"
+  },
+  "homepage": "http://www.tostasqb.com"
+}
